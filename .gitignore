@@ -1,0 +1,22 @@
+# Ignore environment configuration
+.env
+
+# Ignore compiled class files
+*.class
+
+# Ignore output directory
+out/
+
+# Ignore IDE-specific files (optional, useful if you're using an IDE)
+.vscode/
+.idea/
+*.iml
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
