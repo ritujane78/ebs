@@ -39,8 +39,7 @@ public class MeterInfo extends JFrame implements ActionListener{
         c1.add("Inside");
         c1.setBounds(240, 120, 200, 20);
         p.add(l2);
-        p.add(c1);
-        
+
         l3 = new JLabel("Meter Type");
         l3.setBounds(100, 160, 100, 20);
         c2 = new Choice();
